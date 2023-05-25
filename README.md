@@ -1,6 +1,8 @@
-crud based application using mern stack
+This is a crud based web-application done using mern stack.
 
 Run node server.js for server & npm start for client to start the app
+
+enjoy mern :)
 
 
 Output:
